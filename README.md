@@ -8,9 +8,10 @@ Eye Exercise
 In this project there are two eyes that have eyeballs that have an animation that will follow your mouse as it moves around the screen. 
 
 ## How to Run/Usage (Installation)
-Once the files are downloaded (clone) the HTML file should be loaded in a Web Browser. 
+Once the files are downloaded (cloned) the HTML file Index should be loaded in a Web Browser. Once loaded into a web browser the eyeballs should follow your cursor when on the web page. 
 
 ## Roadmap of future improvements
+Add buttons to add or remove additional eyes.
 
 
 ## Licence Information
